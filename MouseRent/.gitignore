@@ -1,0 +1,22 @@
+
+.DS_Store
+
+xcuserdata/
+
+**/xcuserdata/
+
+*.xcuserstate
+
+DerivedData/
+
+.build/
+
+.swiftpm/
+
+MouseRent.xcodeproj.backup/
+
+*.backup
+
+*.xcodeproj.backup
+
+git add MouseRent/.gitignore
